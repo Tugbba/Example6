@@ -1,0 +1,87 @@
+body{
+    padding: 25px;
+    margin: 25px;
+}
+
+.bg-color{
+    background-color: #EEEDEB;
+}
+
+.box-1{
+    background-color:#96C9F4;
+    width: 270px;
+    padding: 10px;
+    padding-left: 160px;
+    float: left;
+    height: 70px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+
+.box-2{
+    background-color: #3FA2F6;
+    width: 220px;
+    padding: 8px;
+    padding-left: 80px;
+    float: left;
+    margin-right: 2px;
+    margin-top: 3px;
+    
+    
+}
+
+.box-3{
+    background-color: #0F67B1;
+    width: 515px;
+    padding: 5px;
+    padding-left: 160px;
+    float: left;
+    height: 80px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+.yellow{
+    color: #FAFFAF;
+}
+
+.padding{
+    padding-top: 100px;
+    padding-left: 500px;
+    
+}
+
+.son{
+   margin-left: 600px;
+    margin-top: 130px;
+}
+
+.ilk{
+    padding-left: 550px;
+}
+
+.btn{
+    margin-left: 70px;
+}
+
+.bas{
+    margin-left: 90px;
+    margin-bottom: 0px;
+}
+
+.p-son{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.getgoogle{
+    padding-left: 40px;
+}
+
+.kelime{
+    padding-left: 30px;
+}
+
+.help{
+    padding-left: 30px;
+}
